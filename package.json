@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-pty": "^1.0.0",
     "pty.node": "^0.4.3"
+  },
+  "devDependencies": {
+    "node-pty": "^1.0.0"
   }
 }
