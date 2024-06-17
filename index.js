@@ -8,6 +8,8 @@ const readline = require('readline').createInterface({
 });
 
 const credentials = require('./credentials.json');
+const config = require('./config.json');
+
 // console.log(credentials);
 
 function GponSession(host) {

@@ -12,6 +12,7 @@
     "pty.node": "^0.4.3"
   },
   "devDependencies": {
+    "express": "^4.19.2",
     "node-pty": "^1.0.0"
   }
 }

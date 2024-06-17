@@ -1,7 +1,22 @@
 # Dasan Gpon Web API
 Node.js web api for Dasan OLT using ssh as backend connection.
 
-#### example credentials.json file
+
+#### Usage
+
+Download ZIP or clone using git:
+
+```
+git clone https://github.com/reinholdPL/dasanGponAPI.git
+```
+
+Install dependencies and run script:
+```
+npm install
+./index.js
+```
+
+#### Example credentials.json file
 
 ```
 {
