@@ -1,5 +1,5 @@
 # Dasan Gpon Web API
-Node.js web api for Dasan OLT using ssh as backend connection.
+Node.js web api for Dasan OLT using ssh as backend connection. Compatible with Dasan GPON OLT V5816, V5812G, and probably others, but only this two were tested.
 
 
 #### Usage
